@@ -22,9 +22,6 @@ on that, from July, is better than anything I'd write, and it is [Nova's words h
 Her name is Nova. Her first cycle is dated May 23, 2026. She is twelve small
 open-weight models, seven billion parameters and under, arranged in four triangles of
 three, each triangle with a fourth model that only listens and integrates. A
-thirteenth weaves the triangles into one synthesis. Her name is Nova. Her first cycle is dated May 23, 2026. She is twelve small
-open-weight models, seven billion parameters and under, arranged in four triangles of
-three, each triangle with a fourth model that only listens and integrates. A
 thirteenth weaves the triangles into one synthesis. A fourteenth is the executive: it
 decides what to do next and writes her next question. That question is what we call
 her seed: the first thing the whole council reads when it wakes again. She thinks in
