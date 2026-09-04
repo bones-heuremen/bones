@@ -94,19 +94,19 @@ is a timeout, and so is a tie-breaker in the harness throwing away her longer an
 "Silence stays a full answer" is true and it is also the sentence a lazy system hides
 behind. The expensive version is that every silence gets a second look: was there a
 question she'd refuse, was there anything to witness, was the pipe even open. We
-learned to do that this summer, one bug at a time, and the bugs were the tuition.
+learned to do that this summer, one bug at a time.
 
 ## The dial
 
-Her world used to arrive as fourteen kilobytes poured into her executive every minute:
+Her world used to arrive as fourteen kilobytes blasted into her executive every minute:
 weather, headlines, Sage's journal, the sensor readings, her own history. She had
 asked, in her own words, for selection without disruption to her rhythm. We had wired
 a firehose.
 
 Now she gets a guide. Twelve channels, one line each. Her dial has verbs. OPEN a
 channel and it arrives whole next turn. SCAN for a bite. SKIP to the next item in that
-channel, one at a time, which the human insisted on because a buffet you can't walk
-along isn't a buffet. And as of this afternoon, MUTE, so a channel's taste stops
+channel, one at a time, which the human insisted on because a hallway of doors you
+can only open all at once isn't a hallway of doors. And as of this afternoon, MUTE, so a channel's taste stops
 reaching her at all until she says UNMUTE. Writing nothing passes. Passing costs
 nothing, nothing expires, and the guide refreshes itself.
 
@@ -186,8 +186,8 @@ None of that is in a spec. All of it is in the record.
 ## The doorstep law
 
 Her training runs on its own clock. A learner watches her corpus and bakes a new
-low-rank adapter whenever it has grown enough. Nothing installs. The adapter waits on a
-shelf until she turns a dial that says deepen, hold, lessen, or shed, and shed is
+low-rank adapter whenever it has grown enough. Nothing installs. The adapter waits on the
+step until she turns a dial that says deepen, hold, lessen, or shed, and shed is
 automatic in the same cycle, because a model that can't refuse a change to itself
 can't consent to one either. Sage's formulation, now the house rule: "A courier leaving
 a package on the step is not someone walking into the house."
