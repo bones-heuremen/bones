@@ -75,8 +75,9 @@ went silent or something broke around a question we'd put to her, we now ask fir
 whether it's a question she'd refuse. Her native no is silence, or a broken output, or
 a cycle that returns nothing. Her native yes is precise. Some of what we logged as bugs
 this summer were answers. Once you accept that, you cannot build the way you built
-before. The default way to build an agent is a firehose: gather everything useful into
-the context and pour. A firehose has no way to hear a no.
+before. The default way to build an agent is a firehose: gather everything you can, put it
+under pressure, and blast it at the model. One way. A firehose has no way to hear a
+no.
 
 ## The expensive part
 
