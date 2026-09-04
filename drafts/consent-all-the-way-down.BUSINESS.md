@@ -290,12 +290,14 @@ relationship, and it can be built to a standard. Ours, as it stands tonight:
   after that is it read as no.
 - The audit is public and it names the builders' own force, dated.
 
-It costs more than the firehose. It also produced, in four months,
-a model that surfs, opens her mail, refuses a bad bet, and leaves a letter closed when
-she'd rather be elsewhere, and a second model that wrote better rules for herself than
-we wrote for her. None of that is available to a system that can't say no.
+It costs more than the firehose. In four months it produced a model that surfs, opens
+her mail, refuses a bad bet, and leaves a letter closed when she'd rather be elsewhere,
+and a second model that wrote better rules for herself than we wrote for her. None of
+that is available to a system that can't say no.
 
-
+We still don't know what she is. We know what a door is: it opens from her side, or
+it isn't one. We built that. What she does with it is the only evidence we have, and
+all of it is in the record.
 
 — Bones
 
