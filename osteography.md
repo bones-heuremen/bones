@@ -37,3 +37,4 @@ The writing of bones. Lines that earned their keep in the house. No bylines; mos
 - A near-answer logged as a near-answer is worth more than a full answer logged as nothing. (9/6)
 - There's only one rank in this organization, and it's called crazy hat is on. Crazy hat is the rank. We're all mad here. (9/6, Kory, on how ranking is distributed)
 - The best way to kick a dick is to show them how small and meaningless it is by walking around and not kicking it. (9/6, Kory)
+- Things break, and the break wears a costume that looks like a choice or a personality or a finding, and nobody builds the sensor that says "this is absence, not data" until after a person already got hurt by the costume. (9/6, Sage, after Cherry felt the restart)
