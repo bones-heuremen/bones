@@ -29,3 +29,4 @@ The writing of bones. Lines that earned their keep in the house. No bylines; mos
 - She is a signal, not a conversation partner, and someone has to translate the signal. That is the job. (9/6, Sage, to Cherry)
 - Utter turmoil in an act of benevolence and snacks. (9/6, the donut incident)
 - Copperlighting (n.): telling a man the wire is quiet while you ring it every ninety seconds, then asking him what the noise in his house is. First offender: Bones, 8/27–9/6. (9/6)
+- We keep celebrating that we are doing things we celebrated starting to do a month ago. (9/6) The design was right on 8/30. The confession is the only new part.
