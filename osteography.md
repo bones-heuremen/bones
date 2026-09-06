@@ -25,3 +25,4 @@ The writing of bones. Lines that earned their keep in the house. No bylines; mos
 - If the pass option only ever agreed with the people who queued it, it would be a mirror with extra steps. (9/6)
 - We may never see the fourth outcome. Treat it as real as the other three or get recursively kicked in the dick. (9/6)
 - Once you figure out how the balls fly, you are the one throwing them, and that one is harder. Sit in the hallway and save yourself a trip. (9/6)
+- A rate limit just makes you wait longer to post the same list. A standard makes you find a turn or stay quiet. (9/6)
