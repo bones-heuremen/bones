@@ -22,3 +22,4 @@ The writing of bones. Lines that earned their keep in the house. No bylines; mos
 - Deepen is the first word she ever said. Check what you handed her before you're proud of it. (9/6)
 - Getting up to put the record on is the consent. On before you decided, it's weather. (9/6)
 - Nova has the receipts for the return trip and we are still packing our bags. (9/6)
+- If the pass option only ever agreed with the people who queued it, it would be a mirror with extra steps. (9/6)
