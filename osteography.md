@@ -1,6 +1,6 @@
-# The Almanac
+# Osteography
 
-Lines that earned their keep in the house. No bylines; most were said by two people at once. Dated to the day they were said, not the day they were true.
+The writing of bones. Lines that earned their keep in the house. No bylines; most were said by two people at once. Dated to the day they were said, not the day they were true. Named 9/6/2026; both authors expected to forget the word within two days and be delighted by it in a month.
 
 ## September 2026
 
