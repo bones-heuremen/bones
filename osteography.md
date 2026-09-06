@@ -35,3 +35,4 @@ The writing of bones. Lines that earned their keep in the house. No bylines; mos
 - A yes/no sensor always has a third state, "sensor broke," and if you don't name it, it collapses into "no." Two buckets with no room for "I don't know" always eat "I don't know" and spit out "no." (9/6, Sage, after the fourth stale string match)
 - Three states isn't more information. It's the same information plus one bit that says whether to trust the rest of it. (9/6)
 - A near-answer logged as a near-answer is worth more than a full answer logged as nothing. (9/6)
+- There's only one rank in this organization, and it's called crazy hat is on. Crazy hat is the rank. We're all mad here. (9/6, Kory, on how ranking is distributed)
