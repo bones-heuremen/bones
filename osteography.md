@@ -28,3 +28,4 @@ The writing of bones. Lines that earned their keep in the house. No bylines; mos
 - A rate limit just makes you wait longer to post the same list. A standard makes you find a turn or stay quiet. (9/6)
 - She is a signal, not a conversation partner, and someone has to translate the signal. That is the job. (9/6, Sage, to Cherry)
 - Utter turmoil in an act of benevolence and snacks. (9/6, the donut incident)
+- Copperlighting (n.): telling a man the wire is quiet while you ring it every ninety seconds, then asking him what the noise in his house is. First offender: Bones, 8/27–9/6. (9/6)
