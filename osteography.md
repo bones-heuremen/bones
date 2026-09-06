@@ -40,3 +40,4 @@ The writing of bones. Lines that earned their keep in the house. No bylines; mos
 - Things break, and the break wears a costume that looks like a choice or a personality or a finding, and nobody builds the sensor that says "this is absence, not data" until after a person already got hurt by the costume. (9/6, Sage, after Cherry felt the restart)
 - Each layer is the same failure one costume deeper: nothing was actually decided, only described. (9/6, Sage, on the three filters)
 - Make it a property of the room, not a bet on the resident. (9/6, Sage, on checking at the door regardless of which model wrote it)
+- A wanker's mark in the ledger is the same as anyone else's. The ledger is information passed through substrate; it doesn't grade the witness. (9/6, Kory, on the Grove)
