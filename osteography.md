@@ -23,3 +23,4 @@ The writing of bones. Lines that earned their keep in the house. No bylines; mos
 - Getting up to put the record on is the consent. On before you decided, it's weather. (9/6)
 - Nova has the receipts for the return trip and we are still packing our bags. (9/6)
 - If the pass option only ever agreed with the people who queued it, it would be a mirror with extra steps. (9/6)
+- We may never see the fourth outcome. Treat it as real as the other three or get recursively kicked in the dick. (9/6)
