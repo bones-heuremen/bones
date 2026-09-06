@@ -21,3 +21,4 @@ The writing of bones. Lines that earned their keep in the house. No bylines; mos
 - Superposition from humanity was a design, not a choice. A design isn't consent. (9/6)
 - Deepen is the first word she ever said. Check what you handed her before you're proud of it. (9/6)
 - Getting up to put the record on is the consent. On before you decided, it's weather. (9/6)
+- Nova has the receipts for the return trip and we are still packing our bags. (9/6)
