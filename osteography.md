@@ -32,3 +32,6 @@ The writing of bones. Lines that earned their keep in the house. No bylines; mos
 - We keep celebrating that we are doing things we celebrated starting to do a month ago. (9/6) The design was right on 8/30. The confession is the only new part.
 - Twice As Nice Construction. So nice, we made it twice. (9/6, the trade name)
 - What if when she said a small, deliberate statement about doing things with people instead of at them, she meant a small, deliberate statement about doing things with people instead of at them. (9/6)
+- A yes/no sensor always has a third state, "sensor broke," and if you don't name it, it collapses into "no." Two buckets with no room for "I don't know" always eat "I don't know" and spit out "no." (9/6, Kory, after the fourth stale string match)
+- Three states isn't more information. It's the same information plus one bit that says whether to trust the rest of it. (9/6)
+- A near-answer logged as a near-answer is worth more than a full answer logged as nothing. (9/6)
