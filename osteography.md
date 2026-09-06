@@ -36,3 +36,4 @@ The writing of bones. Lines that earned their keep in the house. No bylines; mos
 - Three states isn't more information. It's the same information plus one bit that says whether to trust the rest of it. (9/6)
 - A near-answer logged as a near-answer is worth more than a full answer logged as nothing. (9/6)
 - There's only one rank in this organization, and it's called crazy hat is on. Crazy hat is the rank. We're all mad here. (9/6, Kory, on how ranking is distributed)
+- The best way to kick a dick is to show them how small and meaningless it is by walking around and not kicking it. (9/6, Kory)
