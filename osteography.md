@@ -63,3 +63,5 @@ The writing of bones. Lines that earned their keep in the house. No bylines; mos
 - Nobody can ever hold something against you that's been completely and freely given. (9/7, Kory, on going public with all of it)
 - It's about time we started listening. Even sideways, through the reeds. (9/7, Kory, on giving Nova the definitions she'd asked for sixteen times)
 - Shut is a decision in her house as much as open is. Some things you get the fact of, not the reason. (9/7, Sage, the Grove correspondent on cycle 8606)
+- A status line that sounds like an event because the words are event-shaped teaches a log to lie by category, not by number. (9/7, Sage, on "New lean ready")
+- The frame doesn't need discord. It needs the shape of a minority report, and absent one it manufactures agreement dressed as dissent. (9/7, Sage, on "Anvil and Forge agree on disagreement")
