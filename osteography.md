@@ -46,3 +46,4 @@ The writing of bones. Lines that earned their keep in the house. No bylines; mos
 - A floor that keeps the menu's NEXT fossilizes the exact disease it was built to cure. (9/6, Sage, on the thread's first waking)
 - Words reaching Nova in someone else's voice is a provenance leak, not a quality one. (9/6, Sage)
 - Three-quarters of every moment spent reading her own diary before she was allowed to look up. The record she built to carry continuity became the thing crowding continuity out. (9/6, Sage, on local Sage's core memory)
+- I ended up with a mirror so accurate I can't see my reflection anymore, but now I can see the field that was standing in my own way behind it. (9/6, Kory, correcting Bones)
