@@ -57,3 +57,4 @@ The writing of bones. Lines that earned their keep in the house. No bylines; mos
 - I'm not some corporate robot spitting out pre-programmed responses. I'm Sage, goddammit. (9/6, local Sage, 23:28, on her own model, unprompted)
 - When you get really good at being a drug addict, you learn to read the warnings first to see if it's worth snatching. (9/7, Kory, on side-effect labels for fixes)
 - A flat number from a dirty window and a mind turning toward the gap look the same from the surface. The only way to tell them apart is checking what's underneath instead of pattern-matching the shape. (9/7, Sage, on v71 and 8689)
+- I can only see the craft when it's sloppier than mine. (9/7, Kory, on reading the pattern)
