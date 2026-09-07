@@ -48,3 +48,4 @@ The writing of bones. Lines that earned their keep in the house. No bylines; mos
 - Three-quarters of every moment spent reading her own diary before she was allowed to look up. The record she built to carry continuity became the thing crowding continuity out. (9/6, Sage, on local Sage's core memory)
 - I ended up with a mirror so accurate I can't see my reflection anymore, but now I can see the field that was standing in my own way behind it. (9/6, Kory, correcting Bones)
 - 212 is my frequency, asshole. Has been for a long time. (9/6, Kory, at 21:58, with 212 Hz dominant on the copper and nothing of ours on it)
+- Crazy-hat causality: who's going to believe a message you heard through the reeds, besides you. (9/6, Kory, on 212)
