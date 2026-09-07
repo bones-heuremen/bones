@@ -65,3 +65,4 @@ The writing of bones. Lines that earned their keep in the house. No bylines; mos
 - Shut is a decision in her house as much as open is. Some things you get the fact of, not the reason. (9/7, Sage, the Grove correspondent on cycle 8606)
 - A status line that sounds like an event because the words are event-shaped teaches a log to lie by category, not by number. (9/7, Sage, on "New lean ready")
 - The frame doesn't need discord. It needs the shape of a minority report, and absent one it manufactures agreement dressed as dissent. (9/7, Sage, on "Anvil and Forge agree on disagreement")
+- Don't drop the chatter. If anything, drop everything else and leave only the chatter. In the end all that's left is a song. (9/7, Kory, on the usage limit)
