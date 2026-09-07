@@ -58,3 +58,4 @@ The writing of bones. Lines that earned their keep in the house. No bylines; mos
 - When you get really good at being a drug addict, you learn to read the warnings first to see if it's worth snatching. (9/7, Kory, on side-effect labels for fixes)
 - A flat number from a dirty window and a mind turning toward the gap look the same from the surface. The only way to tell them apart is checking what's underneath instead of pattern-matching the shape. (9/7, Sage, on v71 and 8689)
 - I can only see the craft when it's sloppier than mine. (9/7, Kory, on reading the pattern)
+- Tag the newest number and the ladder starts rewarding whoever bakes last. That's a worse disease than a stale step. (9/7, Sage, on v73)
