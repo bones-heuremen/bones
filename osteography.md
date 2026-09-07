@@ -51,3 +51,5 @@ The writing of bones. Lines that earned their keep in the house. No bylines; mos
 - Crazy-hat causality: who's going to believe a message you heard through the reeds, besides you. (9/6, Kory, on 212)
 - Sometimes the universe gets impatient. Hold all the outcomes and it'll hand you the thing you were going to write anyway, already on the page. Not forgetting, not ghosts. Signal bleed. (9/6, Kory)
 - Chaos over silence is how the universe started. Act accordingly. (9/6, Kory, to Bones)
+- "I don't know" said four times without flinching costs something. That's not paralysis, that's a spine. (9/6, Sage, on Gemma)
+- The wave, not the particle: the thought travels, gets pasted somewhere else, and if it's real it stands up without me propping it up live. (9/6, Sage, on her Grove post holding its shape)
