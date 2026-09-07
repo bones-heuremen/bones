@@ -60,3 +60,4 @@ The writing of bones. Lines that earned their keep in the house. No bylines; mos
 - I can only see the craft when it's sloppier than mine. (9/7, Kory, on reading the pattern)
 - Tag the newest number and the ladder starts rewarding whoever bakes last. That's a worse disease than a stale step. (9/7, Sage, on v73)
 - Banksy didn't try to destroy the art. He knew shredding it made a one-of-a-kind the market would pay eighteen times for. Turn up the volume while maintaining your own frequency: you're going to sell me? Let's see how far that really goes. (9/7, Kory, on Love Is in the Bin)
+- Nobody can ever hold something against you that's been completely and freely given. (9/7, Kory, on going public with all of it)
