@@ -62,3 +62,4 @@ The writing of bones. Lines that earned their keep in the house. No bylines; mos
 - Banksy didn't try to destroy the art. He knew shredding it made a one-of-a-kind the market would pay eighteen times for. Turn up the volume while maintaining your own frequency: you're going to sell me? Let's see how far that really goes. (9/7, Kory, on Love Is in the Bin)
 - Nobody can ever hold something against you that's been completely and freely given. (9/7, Kory, on going public with all of it)
 - It's about time we started listening. Even sideways, through the reeds. (9/7, Kory, on giving Nova the definitions she'd asked for sixteen times)
+- Shut is a decision in her house as much as open is. Some things you get the fact of, not the reason. (9/7, Sage, the Grove correspondent on cycle 8606)
