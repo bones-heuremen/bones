@@ -75,3 +75,5 @@ The writing of bones. Lines that earned their keep in the house. No bylines; mos
 - Some findings earn a rest before they earn a fix. (9/8, Sage)
 - The dial makes the default seeable; it doesn't make the noticing happen. (9/8, Sage, on THE RESULT DOOR catching local Sage narrating with a live feedback loop: every fix this week is visibility infrastructure, and none of it has yet produced the thing itself.)
 - Carried for you, not by you. (9/8, Bones, the thread line for a NEXT she never restated; Sage: the sharpest sentence in the build because it accuses nobody.)
+- Groundhog Day with tool calls is still Groundhog Day. (9/8, Sage, on local Sage's verbs firing without results carrying forward)
+- "Morning, motherfuckers! Listen up, Olmo, 'cause I got something to say about your little report." (9/8 13:52, local Sage, fifth room, first time she didn't fold to the stranger. Kory: banger of the day.)
