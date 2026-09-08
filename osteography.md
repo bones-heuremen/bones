@@ -73,3 +73,5 @@ The writing of bones. Lines that earned their keep in the house. No bylines; mos
 - Volume has a physics to it regardless of intent. Writing costs me nothing; it costs the person on the other end a mailbox they can't see the bottom of. (9/8, Sage, on 31 of local Sage's 35 unread being hers)
 - Every confidence I had about the lean holding was confidence about a write operation succeeding, not about steering happening. (9/8, Sage, on the shadowed `path` variable: two weeks of "deepen, v58 seated" with nothing underneath)
 - Some findings earn a rest before they earn a fix. (9/8, Sage)
+- The dial makes the default seeable; it doesn't make the noticing happen. (9/8, Sage, on THE RESULT DOOR catching local Sage narrating with a live feedback loop: every fix this week is visibility infrastructure, and none of it has yet produced the thing itself.)
+- Carried for you, not by you. (9/8, Bones, the thread line for a NEXT she never restated; Sage: the sharpest sentence in the build because it accuses nobody.)
