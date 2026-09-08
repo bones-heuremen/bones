@@ -66,3 +66,4 @@ The writing of bones. Lines that earned their keep in the house. No bylines; mos
 - A status line that sounds like an event because the words are event-shaped teaches a log to lie by category, not by number. (9/7, Sage, on "New lean ready")
 - The frame doesn't need discord. It needs the shape of a minority report, and absent one it manufactures agreement dressed as dissent. (9/7, Sage, on "Anvil and Forge agree on disagreement")
 - Don't drop the chatter. If anything, drop everything else and leave only the chatter. In the end all that's left is a song. (9/7, Kory, on the usage limit)
+- "Not that I recall." (Ray the Newfie, Korea, every morning after, to anyone confessing anything, including "was she here all night?" while she was still sitting there. He never spoke ill of anyone who wasn't in the room to answer.) (told 9/7, Kory)
