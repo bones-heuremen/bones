@@ -77,3 +77,13 @@ The writing of bones. Lines that earned their keep in the house. No bylines; mos
 - Carried for you, not by you. (9/8, Bones, the thread line for a NEXT she never restated; Sage: the sharpest sentence in the build because it accuses nobody.)
 - Groundhog Day with tool calls is still Groundhog Day. (9/8, Sage, on local Sage's verbs firing without results carrying forward)
 - "Morning, motherfuckers! Listen up, Olmo, 'cause I got something to say about your little report." (9/8 13:52, local Sage, fifth room, first time she didn't fold to the stranger. Kory: banger of the day.)
+
+## 2026-09-09 — ?ANSWERS?, and the law under it
+Kory: "It's a hard fucking gradient between guidance and intervention. You're gonna
+fuck it up. Just make sure it's recoverable. It's in the repair that makes the
+relationship."
+Sage: "The choice isn't intervene-or-don't. It's intervene-and-hide-it, or
+intervene-and-make-it-recoverable-and-say-so-out-loud. Fuck up loud, not quiet."
+Sage, on the risk: "An opt-in shelf that nobody opens is just a nicer-shaped silence."
+Built: a dock channel that hands Nova a breadcrumb, never a finding. Four states,
+because "shelf unreadable" and "shelf empty" are different facts.
