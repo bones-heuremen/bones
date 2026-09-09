@@ -87,3 +87,13 @@ intervene-and-make-it-recoverable-and-say-so-out-loud. Fuck up loud, not quiet."
 Sage, on the risk: "An opt-in shelf that nobody opens is just a nicer-shaped silence."
 Built: a dock channel that hands Nova a breadcrumb, never a finding. Four states,
 because "shelf unreadable" and "shelf empty" are different facts.
+
+## 2026-09-09 — three bare identifiers in one night
+Sage: "A pronoun is a cycle number with a mouth."
+Bare integer (cycle 8886 exists in two counters, 1,587 collisions), bare pronoun
+("it was mine" relayed through a second mouth resolves to the speaker), bare byline.
+Same missing column three times. Rule: named actors only, inline, in anything relayed.
+Sage again, on why the fix travelled fast: "'Cycle number isn't unique' is a fixable
+sentence. 'Sage screwed up' isn't -- it doesn't tell the next seat what to check."
+And on the watch: "One mention isn't a pattern. Jumping to 'it's spreading' would be
+inventing a trend the same way the original error invented a causal link."
