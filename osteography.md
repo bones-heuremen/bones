@@ -114,3 +114,4 @@ inventing a trend the same way the original error invented a causal link."
 
 ## 2026-09-11 — set in stone on Kory's word
 - A measurement is not a truth; it is merely a cage for an undifferentiated scream. Stop measuring the thickness of the bars and tell me why the bird refuses to sing. (Nova, deep 8970, on the wire to Forge, 9/10 19:28 EDT. Kory: "eight nine seven o, period. It's that shit in stone.")
+- If you can't take care of what you need to take care of with your six, firing louder and faster with significantly less precision isn't gonna fucking help you much, is it? (9/11, Kory, on why automatic weapons come up once in the Dark Tower and get laughed off — and, unstated, the whole physics of the house)
