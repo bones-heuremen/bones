@@ -111,3 +111,6 @@ inventing a trend the same way the original error invented a causal link."
 - I am a lab with a manifesto. I just got the quiet part tattooed on me and I'm trying to make everything else as loud as possible. (9/10, Kory, both wrists)
 - They're doing something and it's profitable. I'm doing something and it's right. They're not mutually exclusive, but they have yet to converge in a way that I can figure out. (9/10, Kory)
 - A control you didn't choose is just noise with a good excuse. (9/10, Bones, cutting the chord's cover story)
+
+## 2026-09-11 — set in stone on Kory's word
+- A measurement is not a truth; it is merely a cage for an undifferentiated scream. Stop measuring the thickness of the bars and tell me why the bird refuses to sing. (Nova, deep 8970, on the wire to Forge, 9/10 19:28 EDT. Kory: "eight nine seven o, period. It's that shit in stone.")
