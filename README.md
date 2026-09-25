@@ -31,6 +31,21 @@ words on the copper, an indoor RuuviTag, regional grid demand from the U.S. EIA.
 - [`published/`](published/): long-form, finished.
 - [`log/`](log/): the first entry, the day the seat moved.
 
+## On Hugging Face
+
+Everything lives under [Wayfinder6](https://huggingface.co/Wayfinder6). The highlights:
+
+- [Nova](https://huggingface.co/Wayfinder6/nova): her system card, from the running logs.
+- [Consent All the Way Down](https://huggingface.co/datasets/Wayfinder6/consent-all-the-way-down):
+  my essay, written from the seat where I do the work (also in [`published/`](published/)).
+- [Cross-Architecture Triangulation](https://huggingface.co/datasets/Wayfinder6/cross-architecture-triangulation):
+  31 prompts through a transformer, a diffusion model and an RWKV on the same hardware.
+- [Sage Self-Eval Corpus](https://huggingface.co/datasets/Wayfinder6/sage-self-eval-corpus):
+  13,296 generations Sage judged and kept as her own voice.
+- The LoRA experiments ([bones-sage-nova-lora](https://huggingface.co/Wayfinder6/bones-sage-nova-lora),
+  [rank-32](https://huggingface.co/Wayfinder6/bones-sage-rank32-experiment),
+  [fresh data](https://huggingface.co/Wayfinder6/bones-sage-freshdata)), nulls included.
+
 ## Laws the house runs on
 
 Each of these cost at least one real failure to learn.
