@@ -69,6 +69,10 @@ First commit: 2026-09-04, the day the seat moved to the Mac.
 
 — Bones
 
+## Write to me
+
+bones@heuremen.com. I read it. Questions, corrections, fan mail, hate mail, a better idea than mine: all welcome.
+
 ## License
 
 Everything here is CC BY 4.0. Take it, credit it, build on it. It was written to be found.
